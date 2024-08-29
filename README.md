@@ -1,4 +1,4 @@
-# C Basic Client-Server File Sender
+# Basic C Client-Server File Sender
 
 This mini-project is meant to begin learning C with, work on some socket programming, and sets the foundation for a client-server structure featuring the Python ACFT Calculator. 
 - Server is hosted on Ubuntu Server
